@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/Fonts">
+        <file>Fonts/AzonixRegular/AzonixRegular.ttf</file>
+        <file>Fonts/AzonixRegular/AzonixRegular.otf</file>
+        <file>Fonts/AzonixRegular/AzonixRegular.woff</file>
+        <file>Fonts/Noir_medium.otf</file>
+        <file>Fonts/DIN/DIN.ttf</file>
+        <file>Fonts/Sf-ProDisplayFont-BOLD.OTF</file>
+        <file>Fonts/Sf-ProDisplayFont-REGULAR.OTF</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>Icons/icon-account.svg</file>
+        <file>Icons/icon-chatdesign.svg</file>
+        <file>Icons/icon-contacts.svg</file>
+        <file>Icons/icon-data.svg</file>
+        <file>Icons/icon-devices.svg</file>
+        <file>Icons/icon-groups.svg</file>
+        <file>Icons/icon-more.svg</file>
+        <file>Icons/icon-nightmode.svg</file>
+        <file>Icons/icon-notification.svg</file>
+        <file>Icons/icon-search.svg</file>
+        <file>Icons/icon-security.svg</file>
+        <file>Icons/icon-nightmodewhite.svg</file>
+        <file>Icons/icon-accoutwhite.png</file>
+        <file>Icons/icon-settingswhite.png</file>
+        <file>Icons/icon-chats.svg</file>
+        <file>Icons/icon-chatsselected.svg</file>
+        <file>Icons/icon-help.svg</file>
+    </qresource>
+    <qresource prefix="/UxObjects">
+        <file>UxObjects/cloud-righttopsmall.svg</file>
+        <file>UxObjects/star.svg</file>
+        <file>UxObjects/Vectorcloud-righttop.svg</file>
+        <file>UxObjects/cloud-rightdown.svg</file>
+    </qresource>
+    <qresource prefix="/Tests">
+        <file>Tests/AvatarTest.jpeg</file>
+    </qresource>
+</RCC>
